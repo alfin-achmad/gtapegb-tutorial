@@ -1,5 +1,7 @@
 	# [GTAPEGB-TUTORIAL] How to install Oracle Linux 8
 
+![Cover Image](https://raw.githubusercontent.com/alfin-achmad/gtapegb-tutorial/main/assets/images/ol8-installation.png)
+
 # Oracle Linux 8 (OL8) Installation
 
 This article provides a pictorial guide for performing a basic installation of **Oracle Linux 8**.
